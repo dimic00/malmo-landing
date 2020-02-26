@@ -11,8 +11,7 @@
 
 /* Layout */
 @import 'layout/base';
-@import 'layout/481' (min-width: 481px);
-@import 'layout/769' (min-width: 769px);
+@import 'layout/820' (min-width: 820px);
 
 /* Google Fonts */
 @import 'https://fonts.googleapis.com/css?family=Karla:700&display=swap';
