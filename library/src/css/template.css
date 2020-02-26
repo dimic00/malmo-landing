@@ -50,8 +50,3 @@ tt {
 	overflow: auto;
 	max-width: 100%;
 }
-
-.container {
-	max-width: 820px !important;
-	box-sizing: border-box;
-}

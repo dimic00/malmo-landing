@@ -1,3 +1,7 @@
+.container {
+	padding: 0px;
+}
+
 .header {
 	margin-bottom: 90px;
 }
@@ -11,7 +15,7 @@
 				&::before {
 					content: '—';
 					display: inline-block;
-					margin: 0px 10px;
+					margin: 0px 8px;
 					opacity: 0.5;
 				}
 			}
