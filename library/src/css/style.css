@@ -6,15 +6,7 @@
 /* Bulma */
 @import '../../node_modules/bulma/css/bulma';
 
-/* Specific */
-/* -- Regions */
-@import 'regions/regions.header';
-@import 'regions/regions.footer';
-/* -- Blocks */
-@import 'blocks/blocks.default';
-@import 'blocks/blocks.menu';
-
-/* -- Pages */
+/* Pages */
 @import 'pages/pages.front';
 
 /* Layout */

@@ -1,24 +1,2 @@
-.wrap {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0px auto;
-}
-
-
-/* Bandeau cookie
-   ========================================================================== */
-
-.cookie-infos {
-	&__texte {
-		padding-right: 120px;
-	}
-
-	&__button {
-		position: absolute;
-		top: 50%;
-		right: 20px;
-		margin: 0px;
-
-		transform: translateY(-50%);
-	}
+.blop {
 }
