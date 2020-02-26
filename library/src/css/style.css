@@ -23,3 +23,7 @@
 @import 'layout/769' (min-width: 769px);
 @import 'layout/1030' (min-width: 1030px);
 @import 'layout/1240' (min-width: 1240px);
+
+/* Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=Karla:700&display=swap';
+@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap';
