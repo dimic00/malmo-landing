@@ -11,11 +11,17 @@
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="stylesheet" href="/library/built/style.css">
 
+        <meta property="og:title" content="Malmö — ambient electronica" />
+        <meta property="og:description" content="Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://hej-malmo.se" />
+        <meta property="og:image" content="https://hej-malmo.se/library/built/img/social.jpg" />
+
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@hej_malmo">
         <meta name="twitter:title" content="Malmö — ambient electronica">
         <meta name="twitter:description" content="Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit.">
-        <meta name="twitter:image" content="https://hej-malmo.se/library/built/img/twittercard.jpg">
+        <meta name="twitter:image" content="https://hej-malmo.se/library/built/img/social.jpg">
 
         <?php if (preg_match('/((http|https):\/\/)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.test\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)/', $_SERVER['HTTP_HOST'])) {
             echo '<script src="//' . $_SERVER['HTTP_HOST'] . ':1337/livereload.js"></script>';
