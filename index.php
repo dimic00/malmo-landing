@@ -25,13 +25,13 @@
                     </figure>
                     <nav class="header__menu">
                         <ul>
-                            <li><a href="#" target="_blank">spotify</a></li>
-                            <li><a href="#" target="_blank">bandcamp</a></li>
-                            <li><a href="#" target="_blank">soundcloud</a></li>
-                            <li><a href="#" target="_blank">youtube</a></li>
-                            <li><a href="#" target="_blank">instagram</a></li>
-                            <li><a href="#" target="_blank">facebook</a></li>
-                            <li><a href="#" target="_blank">merch</a></li>
+                            <li><a href="https://open.spotify.com/artist/6yBdtaTSKKjyUZI2xH052v" target="_blank">spotify</a></li>
+                            <li><a href="https://hej-malmo.bandcamp.com/" target="_blank">bandcamp</a></li>
+                            <li><a href="https://soundcloud.com/hej-malmo" target="_blank">soundcloud</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCFkOfes-e0HMlL_dcKv4xVQ" target="_blank">youtube</a></li>
+                            <li><a href="https://www.instagram.com/hej_malmo/" target="_blank">instagram</a></li>
+                            <li><a href="https://www.facebook.com/hejmalmo" target="_blank">facebook</a></li>
+                            <li><a href="https://hej-malmo.bandcamp.com/merch" target="_blank">merch</a></li>
                         </ul>
                     </nav>
                 </header>
