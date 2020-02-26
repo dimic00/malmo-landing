@@ -75,6 +75,10 @@
 	}
 }
 
+.footer {
+	background-color: transparent !important;
+}
+
 .footer__link {
 	color: var(--text-color);
 	font-family: var(--s-stack);
