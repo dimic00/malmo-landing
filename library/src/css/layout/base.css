@@ -1,2 +1,23 @@
-.blop {
+.container {
+	padding: 0px 20px;
+}
+
+.header {
+	margin-bottom: 40px;
+}
+
+.header__menu {
+	& ul {
+		& li {
+			margin-right: 14px;
+		}
+	}
+}
+
+.cntent__player {
+	margin-top: 40px;
+}
+
+.footer {
+	margin-top: 40px;
 }

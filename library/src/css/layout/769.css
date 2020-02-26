@@ -1,2 +1,28 @@
-.blop {
+.header {
+	margin-bottom: 90px;
+}
+
+.header__menu {
+	& ul {
+		& li {
+			margin-right: 0px;
+
+			&:not(:first-child) {
+				&::before {
+					content: '—';
+					display: inline-block;
+					margin: 0px 10px;
+					opacity: 0.5;
+				}
+			}
+		}
+	}
+}
+
+.cntent__player {
+	margin-top: 0px;
+}
+
+.footer {
+	margin-top: 90px;
 }
