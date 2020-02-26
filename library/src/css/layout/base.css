@@ -1,0 +1,14 @@
+.blop{}
+
+/* Bandeau cookie
+   ========================================================================== */
+
+.cookie-infos {
+	&__texte {
+		padding-right: 0px;
+	}
+
+	&__button {
+		margin: 20px 0px 10px 0px;
+	}
+}

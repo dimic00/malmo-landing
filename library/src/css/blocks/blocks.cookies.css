@@ -1,0 +1,53 @@
+.cookies {
+	display: none;
+	z-index: 10000;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	font-size: 12rem;
+
+	&.visible {
+		display: block;
+	}
+}
+
+.cookies__content {
+	background: rgba(0,0,0,0.85);
+	position: relative;
+	padding: 16px 20px;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+}
+
+.cookies__text {
+	color: #fff;
+	width: 100%;
+	line-height: 18px;
+
+	& a {
+		display: inline-block;
+		position: relative;
+		padding: 1px 5px;
+		text-decoration: underline;
+	}
+}
+
+.cookies__btn {
+	flex-shrink: 0;
+	padding: 8px 10px;
+	border: #fff 1px solid;
+	background: #fff;
+	font-size: 14rem;
+	font-weight: 700;
+	color: #000;
+	border-radius: 3px;
+	cursor: pointer;
+	margin-left: 4%;
+
+	&:hover {
+		background: transparent;
+		color: #fff;
+	}
+}
