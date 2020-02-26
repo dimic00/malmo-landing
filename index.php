@@ -17,6 +17,10 @@
     </head>
 
     <body>
-        
+        <header class="header">
+            <div class="container">
+                <img src="library/built/img/malmo-logo.png" alt="Malmö" class="header__img">
+            </div>
+        </header>
     </body>
 </html>

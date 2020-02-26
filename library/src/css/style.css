@@ -8,20 +8,14 @@
 
 /* Specific */
 /* -- Regions */
-@import 'regions/regions.sidebar';
 @import 'regions/regions.header';
-@import 'regions/regions.header.mobile';
 @import 'regions/regions.footer';
 /* -- Blocks */
 @import 'blocks/blocks.default';
 @import 'blocks/blocks.menu';
-@import 'blocks/blocks.cookies';
+
 /* -- Pages */
 @import 'pages/pages.front';
-/* -- Nodes */
-@import 'nodes/nodes.default';
-/* -- Forms */
-@import 'forms/forms.default';
 
 /* Layout */
 @import 'layout/base';
@@ -29,12 +23,3 @@
 @import 'layout/769' (min-width: 769px);
 @import 'layout/1030' (min-width: 1030px);
 @import 'layout/1240' (min-width: 1240px);
-
-@import 'print' print;
-
-/* Slick */
-/*@import '../../node_modules/slick-carousel/slick/slick.css';*/
-/*@import '../../node_modules/slick-carousel/slick/slick-theme';*/
-
-/* Modaal */
-/* @import '../../node_modules/modaal/dist/css/modaal.css'; */
