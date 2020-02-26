@@ -11,10 +11,4 @@
 	/* Generic stacks */
 	--ss-stack: 'Karla', Helvetica, Arial, sans-serif;
 	--s-stack: 'Lora', 'Times New Roman', Times, serif;
-
-	/* Specific stacks */
-
-	/* Cookie */
-	--cookie_bg: #000;
-	--cookie_txt: #fff;
 }
