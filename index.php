@@ -61,7 +61,7 @@
                         <div class="column is-1"></div>
                         <div class="column is-4">
                             <div class="cntent__player">
-                                <iframe style="border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=3495386773/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless></iframe>
+                                <iframe style="border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=298357110/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless></iframe>
                             </div>
                         </div>
                     </div>
