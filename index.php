@@ -43,6 +43,7 @@
                             <li><a href="https://www.youtube.com/channel/UCFkOfes-e0HMlL_dcKv4xVQ" target="_blank">youtube</a></li>
                             <li><a href="https://www.instagram.com/hej_malmo/" target="_blank">instagram</a></li>
                             <li><a href="https://www.facebook.com/hejmalmo" target="_blank">facebook</a></li>
+                            <li><a href="https://twitter.com/hej_malmo" target="_blank">twitter</a></li>
                             <li><a href="https://hej-malmo.bandcamp.com/merch" target="_blank">merch</a></li>
                         </ul>
                     </nav>
