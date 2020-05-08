@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Malmö — ambient electronica</title>
+        <title>Malmö — ambient electronica musician</title>
         <meta name="description" content="Ambient electronica producer. Listen, live, contact.">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="UTF-8">
@@ -11,7 +11,7 @@
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="stylesheet" href="/library/built/style.css">
 
-        <meta property="og:title" content="Malmö — ambient electronica" />
+        <meta property="og:title" content="Malmö — ambient electronica musician" />
         <meta property="og:description" content="Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://hej-malmo.se" />
@@ -19,7 +19,7 @@
 
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@hej_malmo">
-        <meta name="twitter:title" content="Malmö — ambient electronica">
+        <meta name="twitter:title" content="Malmö — ambient electronica musician">
         <meta name="twitter:description" content="Inspired by the peaceful Scandinavian landscapes, the musical project Malmö takes its name from this famous Swedish city, a place of exchange and dialogue connecting Denmark via the Oresund detroit.">
         <meta name="twitter:image" content="https://hej-malmo.se/library/built/img/social.jpg">
 
