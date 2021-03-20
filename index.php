@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Malmö — ambient electronica musician</title>
-        <meta name="description" content="Ambient electronica producer. Listen, live, contact.">
+        <title>Malmö — electronic music</title>
+        <meta name="description" content="Ambient, electronica, and felted techno are joined together to give life to evading music and performances">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="UTF-8">
         <meta name="HandheldFriendly" content="True">
